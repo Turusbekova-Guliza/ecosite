@@ -57,12 +57,11 @@ function Main() {
             <div className="main__content1">
               <h2>Одни мы можем мало, вместе — значительно больше.</h2>
               <h6>
-                We Code Convent foundation manage wastage for needy peoples
-              </h6>
+              Фонд <span style={{ color: "lightgreen"}}>EcoBonus</span> помогает нуждающимся через переработку отходов.              </h6>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id
-                nobis voluptates modi.
+              Мы превращаем отходы в помощь для тех, кто в ней нуждается.
               </p>
+              <button>Поддержать</button>
             </div>
             <div className="main__content2">
               <img src={GirlHero} alt="" />
